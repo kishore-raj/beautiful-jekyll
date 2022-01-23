@@ -6,13 +6,13 @@
 # --- Required options --- #
 
 # Name of website
-title: Kishore's Bio
+title: Kishoreraj Jayakumar
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: This is a space where you find who I am
 
 # GitHub Actions
-repository: "VincentTam/beautiful-jekyll"
+repository: "kishore-raj/beautiful-jekyll"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -49,20 +49,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "j.kishoreraj93@gmail.com"
+#  facebook: deanattali
+  github: kishore-raj
+  twitter: kishorerajJaya1
+ # patreon: DeanAttali
+ # youtube: c/daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: kishoreraj1541993
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  #telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -178,7 +178,7 @@ footer-link-col: "#404040"
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
 staticman:
-  repository : vincenttam/beautiful-jekyll # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository : kishore-raj/beautiful-jekyll # GitHub username/repository eg. "daattali/beautiful-jekyll"
   branch     : gh-pages # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : https://secretman3.herokuapp.com/v3/entry/github/ # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
 #  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
