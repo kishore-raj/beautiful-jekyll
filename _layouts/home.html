@@ -3,7 +3,8 @@ layout: page
 ---
 
 {{ content }}
-{% include_relative aboutme.md %}
+
+{% include_relative aboutme %}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
