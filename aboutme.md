@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
-permalink: /
+permalink: /beautiful-jekyll
 redirect_from:
 - /aboutme
 ---
