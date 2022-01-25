@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% include_relative aboutme2.md %}
+{% include_relative aboutme.md | markdownify %}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
