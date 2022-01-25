@@ -4,7 +4,9 @@ layout: page
 
 {{ content }}
 
-<div>{{ site.aboutme.content | markdownify }}</div>
+{% assign about = site.data.aboutme2 %}
+<p>{{ about.content | markdownify }}</p>
+<p>{{ about.layout | markdownify }}</p>
 
 <p> following are string html</p>
 <div>{{ site.aboutme.content | strip_html }}</div>

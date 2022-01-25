@@ -2,9 +2,9 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
-permalink: /beautiful-jekyll
+permalink: /aboutme
 redirect_from:
-- /aboutme
+- /beautiful-jekyll
 ---
 
 My name is Inigo Montoya. I have the following qualities:
