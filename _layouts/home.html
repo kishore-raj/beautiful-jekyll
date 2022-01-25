@@ -4,7 +4,10 @@ layout: page
 
 {{ content }}
 
-{{ include_relative aboutme.md | markdownify }}
+<div>{{ site.aboutme.content | markdownify }}</div>
+
+<p> following are string html</p>
+<div>{{ site.aboutme.content | markdownify }}</div>
 
 {% assign posts = paginator.posts | default: site.posts %}
 
