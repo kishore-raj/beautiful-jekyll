@@ -7,7 +7,7 @@ layout: page
 <div>{% site.aboutme.content | markdownify %}</div>
 
 <p> following are string html</p>
-<div>{%site.aboutme.content | strip_html %}</div>
+<div>{% site.aboutme.content | strip_html %}</div>
 
 {% assign posts = paginator.posts | default: site.posts %}
 
